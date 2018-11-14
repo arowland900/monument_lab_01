@@ -2,6 +2,10 @@ h1 a {
     color: #F6CD7F;
 }
 
-nav a {
+header nav a {
     color: #EAE8E5;
+}
+
+footer nav a {
+    color: #F6CD7F;
 }
