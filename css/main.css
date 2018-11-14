@@ -39,6 +39,11 @@ article h2 a {
     text-decoration: none;
     font-weight: 300;
 }
+article p::first-letter { 
+    font-size: 60px;
+    color: #EAE8E5;
+    clear: both
+}
 
 footer p {
     color: #EAE8E5;
