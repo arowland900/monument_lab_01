@@ -1,3 +1,7 @@
-h1 {
-    color: yellow;
+h1 a {
+    color: #F6CD7F;
+}
+
+nav a {
+    color: #EAE8E5;
 }
